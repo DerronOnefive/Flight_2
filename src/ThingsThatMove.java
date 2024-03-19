@@ -1,3 +1,10 @@
+/**
+ * ClassName:ThingsThatMove
+ * @Author:Derron
+ * @Version:1.0
+ * Course:ITEC 2140
+ * Date: 3/18/2024
+ */
 // Main class to run the program
 public class ThingsThatMove {
     public static void main(String[] args) {
