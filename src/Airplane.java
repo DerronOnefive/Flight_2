@@ -1,3 +1,10 @@
+/**
+ * ClassName:Flight_2
+ * @Author:Derron
+ * @Version:1.0
+ * Course:ITEC 2140
+ * Date: 3/18/2024
+ */
 // Airplane class implementing the Movement interface
 class Airplane implements Movement {
     private String model;
