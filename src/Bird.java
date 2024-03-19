@@ -1,3 +1,10 @@
+/**
+ * ClassName:Bird
+ * @Author:Derron
+ * @Version:1.0
+ * Course:ITEC 2140
+ * Date: 3/18/2024
+ */
 // Bird class implementing the Movement interface
 class Bird implements Movement {
     private String type;
